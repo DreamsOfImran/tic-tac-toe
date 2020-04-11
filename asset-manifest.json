@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.47a9f725.chunk.css",
-    "main.js": "/static/js/main.fcda08a6.chunk.js",
-    "main.js.map": "/static/js/main.fcda08a6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.876764e1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.876764e1.js.map",
-    "static/js/2.e234924a.chunk.js": "/static/js/2.e234924a.chunk.js",
-    "static/js/2.e234924a.chunk.js.map": "/static/js/2.e234924a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.80b3770264b7d65609f50b983b56251d.js": "/precache-manifest.80b3770264b7d65609f50b983b56251d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.47a9f725.chunk.css.map": "/static/css/main.47a9f725.chunk.css.map",
-    "static/js/2.e234924a.chunk.js.LICENSE.txt": "/static/js/2.e234924a.chunk.js.LICENSE.txt"
+    "main.css": "/tic-tac-toe/static/css/main.47a9f725.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.fcda08a6.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.fcda08a6.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.e9088102.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.e9088102.js.map",
+    "static/js/2.e234924a.chunk.js": "/tic-tac-toe/static/js/2.e234924a.chunk.js",
+    "static/js/2.e234924a.chunk.js.map": "/tic-tac-toe/static/js/2.e234924a.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "precache-manifest.fd54a3639b81b892e49f063fdab17864.js": "/tic-tac-toe/precache-manifest.fd54a3639b81b892e49f063fdab17864.js",
+    "service-worker.js": "/tic-tac-toe/service-worker.js",
+    "static/css/main.47a9f725.chunk.css.map": "/tic-tac-toe/static/css/main.47a9f725.chunk.css.map",
+    "static/js/2.e234924a.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.e234924a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.876764e1.js",
+    "static/js/runtime-main.e9088102.js",
     "static/js/2.e234924a.chunk.js",
     "static/css/main.47a9f725.chunk.css",
     "static/js/main.fcda08a6.chunk.js"
